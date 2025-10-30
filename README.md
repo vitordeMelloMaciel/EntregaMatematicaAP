@@ -66,7 +66,7 @@ print("Espécie prevista:", previsao[0])
 
 ## ✍️ Autor
 
-**Patrick Souza**  
+**Vitor Maciel**  
 Projeto desenvolvido como exemplo prático de *IA preditiva e classificação supervisionada.*
 
 ---
